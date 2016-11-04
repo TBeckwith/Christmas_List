@@ -121,7 +121,7 @@ nav a:active {
 }
 
 #wrap {
-  min-height: calc(100vh - 310px);
+  min-height: calc(100vh - 402.5px);
 }
 
 section {
