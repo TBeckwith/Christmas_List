@@ -1,0 +1,6 @@
+font-family: 'Itim', cursive; body
+font-family: 'Coiny', cursive; h1
+font-family: 'Nunito', sans-serif; h2
+font-family: 'Damion', cursive;
+
+break at 1377px
